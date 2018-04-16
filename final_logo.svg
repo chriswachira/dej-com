@@ -64,61 +64,12 @@
        x="0.022928083"
        y="87.068626" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#00aae4;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#00aae4;stroke-width:2.68381333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1843"
-       width="195.10675"
-       height="180.13966"
-       x="7.4466248"
-       y="101.93017" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.54111385px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00aae4;fill-opacity:1;stroke:none;stroke-width:0.87842613px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="14.141055"
-       y="184.41161"
-       id="text4136-3-7-9"><tspan
-         sodipodi:role="line"
-         id="tspan4138-2-7-5"
-         x="14.141055"
-         y="184.41161"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.36972046px;line-height:10;font-family:'Yonder Recoil';-inkscape-font-specification:'Yonder Recoil';fill:#00aae4;fill-opacity:1;stroke-width:0.87842613px">D</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.54111385px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00aae4;fill-opacity:1;stroke:none;stroke-width:0.87842613px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="105.44301"
-       y="184.41161"
-       id="text4140-0-2-0"><tspan
-         sodipodi:role="line"
-         id="tspan4142-7-7-5"
-         x="105.44301"
-         y="184.41161"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.36972046px;line-height:10;font-family:'Yonder Recoil';-inkscape-font-specification:'Yonder Recoil';fill:#00aae4;fill-opacity:1;stroke-width:0.87842613px">C</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9.80199528px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81683296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="16.624233"
-       y="219.68784"
-       id="text4144-4-3-2"><tspan
-         sodipodi:role="line"
-         id="tspan4146-7-2-4"
-         x="16.624233"
-         y="219.68784"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.16528702px;line-height:10;font-family:Gotham;-inkscape-font-specification:Gotham;letter-spacing:0.88399738px;stroke-width:0.81683296px">DEJCOM</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.11058617px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84254885px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="14.671666"
-       y="256.82538"
-       id="text4148-6-8-9"><tspan
-         sodipodi:role="line"
-         id="tspan4150-8-5-4"
-         x="14.671666"
-         y="256.82538"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.67737961px;line-height:10;font-family:Gotham;-inkscape-font-specification:Gotham;letter-spacing:0.9118278px;stroke-width:0.84254885px">SERVICES</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 16.93155,227.07441 c 175.75892,0 176.1369,0 176.1369,0"
-       id="path1829"
-       inkscape:connector-curvature="0" />
+       width="201.51076"
+       height="201.00554"
+       x="4.2446213"
+       y="91.497231" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:9.9404211px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:0.2670157;stroke:none;stroke-width:0.82836848px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -131,5 +82,71 @@
          x="-155.69347"
          y="227.82481"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.14827728px;line-height:10;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ff0000;fill-opacity:0.2670157;stroke-width:0.82836848px">SAMPLE</tspan></text>
+    <g
+       id="g868"
+       transform="translate(0,3.818364)">
+      <g
+         transform="matrix(0.94853353,0,0,0.94853353,5.4039791,35.411353)"
+         id="g847">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:9.80199528px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.81683296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="16.624233"
+           y="219.68784"
+           id="text4144-4-3-2"><tspan
+             sodipodi:role="line"
+             id="tspan4146-7-2-4"
+             x="16.624233"
+             y="219.68784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.16528702px;line-height:10;font-family:Gotham;-inkscape-font-specification:Gotham;letter-spacing:0.88399738px;stroke-width:0.81683296px">DEJCOM</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.11058617px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84254885px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="14.671666"
+           y="256.82538"
+           id="text4148-6-8-9"><tspan
+             sodipodi:role="line"
+             id="tspan4150-8-5-4"
+             x="14.671666"
+             y="256.82538"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.67737961px;line-height:10;font-family:Gotham;-inkscape-font-specification:Gotham;letter-spacing:0.9118278px;stroke-width:0.84254885px">SERVICES</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 16.93155,227.07441 c 175.75892,0 176.1369,0 176.1369,0"
+           id="path1829"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(1.2866889,0,0,1.2866889,-29.670395,-32.608912)"
+         id="g854">
+        <g
+           id="g4152"
+           transform="matrix(1.3282921,0,0,1.3282921,-272.19176,-426.88364)"
+           style="fill:#0297bf;fill-opacity:1">
+          <text
+             id="text4136"
+             y="462.43307"
+             x="232.3351"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0297bf;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:10;font-family:Panton;-inkscape-font-specification:Panton;fill:#0297bf;fill-opacity:1"
+               y="462.43307"
+               x="232.3351"
+               id="tspan4138"
+               sodipodi:role="line">D</tspan></text>
+          <text
+             id="text4140"
+             y="462.43307"
+             x="273.24011"
+             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0297bf;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:10;font-family:Panton;-inkscape-font-specification:Panton;fill:#0297bf;fill-opacity:1"
+               y="462.43307"
+               x="273.24011"
+               id="tspan4142"
+               sodipodi:role="line">C</tspan></text>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
